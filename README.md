@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/emmanuelmjesse" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuelmjesse?logo=twitter&style=for-the-badge" alt="emmanuelmjesse" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce website**
+
 
 - 🌱 I’m currently learning **Laravel, Node.js, Ruby, Kotlin, Python .......**
 
